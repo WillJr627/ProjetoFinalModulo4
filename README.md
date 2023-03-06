@@ -1,4 +1,4 @@
-# Projeto final do módulo 3: Dados Game of Thrones 🐲
+# Projeto final do módulo 4: Dados Game of Thrones 🐲
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;
